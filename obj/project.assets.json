@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rafael Roque\\Documents\\DIO_appseries\\dio-dotnet-poo-lab-2-master\\DIO.Series.csproj",
+      "projectUniqueName": "C:\\Users\\Rafael Roque\\Documents\\DOTNET_MRV\\projeto_series\\DIO.Series.csproj",
       "projectName": "DIO.Series",
-      "projectPath": "C:\\Users\\Rafael Roque\\Documents\\DIO_appseries\\dio-dotnet-poo-lab-2-master\\DIO.Series.csproj",
+      "projectPath": "C:\\Users\\Rafael Roque\\Documents\\DOTNET_MRV\\projeto_series\\DIO.Series.csproj",
       "packagesPath": "C:\\Users\\Rafael Roque\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rafael Roque\\Documents\\DIO_appseries\\dio-dotnet-poo-lab-2-master\\obj\\",
+      "outputPath": "C:\\Users\\Rafael Roque\\Documents\\DOTNET_MRV\\projeto_series\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rafael Roque\\AppData\\Roaming\\NuGet\\NuGet.Config",

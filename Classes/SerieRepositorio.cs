@@ -6,7 +6,7 @@ namespace DIO.Series
 {
 	public class SerieRepositorio : IRepositorio<Serie>
 	{
-        private List<Serie> listaSerie = new List<Serie>(); //é aqui que as séries serão armazenadas, no repositório e não no programa principal
+        private List<Serie> listaSerie = new List<Serie>();
 		public void Atualiza(int id, Serie objeto)
 		{
 			listaSerie[id] = objeto;
